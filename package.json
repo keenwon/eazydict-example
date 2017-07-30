@@ -1,0 +1,33 @@
+{
+  "name": "eazydict-example",
+  "version": "1.0.0",
+  "description": "EazyDict 插件演示项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keenwon/eazydict-example.git"
+  },
+  "keywords": [
+    "eazydict",
+    "dictionary",
+    "translate",
+    "youdao",
+    "bing",
+    "google",
+    "terminal",
+    "console",
+    "linux"
+  ],
+  "author": "keenwon <semanwmj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keenwon/eazydict-example/issues"
+  },
+  "homepage": "https://github.com/keenwon/eazydict-example#readme",
+  "dependencies": {
+    "eazydict-standard-output": "^1.6.0"
+  }
+}
